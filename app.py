@@ -1,5 +1,4 @@
 import streamlit as st 
-import pandas_datareader as pdr
 
 st.write('''
          #우이제 
